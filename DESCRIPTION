@@ -1,0 +1,11 @@
+Package: bm
+Type: Package
+Title: Bryan's Personal Package of Commonly Used Custom Functions
+Version: 0.1.0
+Author@R: person('Bryan', 'Milstead', email = 'willbmisled@gmail.com', role = c('aut', 'cre'))
+Description: This is just a jumble of functions and (perhaps) data that I use
+    to automate common tasks.  Use at your own risk.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
